@@ -214,7 +214,6 @@ footer span {
 }
 
 
-
 @media (max-width: 800px) {
     #pricing {
         flex-direction: column;
